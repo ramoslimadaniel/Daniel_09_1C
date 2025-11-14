@@ -3,3 +3,8 @@ body{
 
     background:rgb(247, 213, 150);
 }
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
